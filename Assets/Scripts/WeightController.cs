@@ -7,8 +7,7 @@ public class WeightController : MonoBehaviour
 {
     HingeJoint joint;
     public float speed = 80;
-    public KeyCode upButton = KeyCode.Space; // 假设向上的按钮是空格键
-    public KeyCode downButton = KeyCode.LeftShift; // 假设向下的按钮是左Shift键
+
 
     // Use this for initialization
     void Start()
